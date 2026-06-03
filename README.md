@@ -1,4 +1,4 @@
-# 🔐 Advanced Password Strength Analyzer
+# 🔐 SuakshaSetu - An Advanced Password Strength Analyzer
 
 ### Demo : [Project Demo Link](https://youtu.be/rRDn0WjzekA)
 
